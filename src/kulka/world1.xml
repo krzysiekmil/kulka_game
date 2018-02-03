@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<world1>
+	<BallX>30</BallX>
+	<BallY>500</BallY>
+	<GoalX>400</GoalX>
+	<GoalY>400</GoalY>
+	<Obstacle id="0">
+		<X>100</X>
+		<Y>100</Y>
+		<width>100</width>
+		<height>50</height>
+	</Obstacle>
+	<Obstacle id="1">
+		<X>175</X>
+		<Y>175</Y>
+		<width>100</width>
+		<height>50</height>
+	</Obstacle>
+	<Obstacle id="2">
+		<X>250</X>
+		<Y>250</Y>
+		<width>100</width>
+		<height>50</height>
+	</Obstacle>
+	<Obstacle id="3">
+		<X>325</X>
+		<Y>325</Y>
+		<width>100</width>
+		<height>50</height>
+	</Obstacle>
+	
+</world1>

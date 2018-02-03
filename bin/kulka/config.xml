@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<FrameWidth>600</FrameWidth>
+	<FrameHeight>600</FrameHeight>
+	<FrameSetX>100</FrameSetX>
+	<FrameSetY>10</FrameSetY>
+	<Title>Kulka</Title>
+	<HighScoreFile>highscore.dat</HighScoreFile>
+	<World1>src\\kulka\\world1.xml</World1>
+	<World2>src\\kulka\\world2.xml</World2>
+	<BallX>50</BallX>
+	<BallY>200</BallY>
+	<GoalX>400</GoalX>
+	<GoalY>400</GoalY>
+	<SizeObstacle>75</SizeObstacle>
+</config>
